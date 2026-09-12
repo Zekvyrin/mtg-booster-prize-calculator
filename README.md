@@ -1,5 +1,7 @@
 # 🏆 MTG Booster Prize Calculator
 
+> 🌐 **Live Web Application**: [https://zekvyrin.github.io/mtg-booster-prize-calculator/](https://zekvyrin.github.io/mtg-booster-prize-calculator/)
+
 A modern, standalone, client-side web application for Magic: The Gathering Tournament Organizers (TOs) and Local Game Stores (LGS). It takes raw tournament standings exported or copied from **Wizards EventLink** and calculates mathematically fair, proportional booster pack payouts across Swiss point brackets.
 
 Zero dependencies, no servers, no telemetry, and 100% private — runs entirely in your browser.
